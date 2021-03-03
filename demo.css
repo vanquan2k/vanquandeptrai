@@ -1,0 +1,34 @@
+.content{
+
+}
+.content .phan1chutren{
+    
+
+}
+.content .phan1chutren .chu{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}
+.content .phan1chutren .chu p.dichuot{
+    font-size: 15px;
+}
+.content .phan1chutren .chu p.dichuot:hover{
+    color: rgb(56, 10, 99);
+}
+.content .phan1chutren .hr{  
+    color: blueviolet;
+
+
+}
+.content .phan2menu{
+
+}
+.content .phan3anh{}
+.content .phan4icon{}
+.content .phan5chu{}
+.content .phan6anh{}
+.content .phan7anh{}
+.content .phan8anh{}
+.content .phan9anh{}
